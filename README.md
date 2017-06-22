@@ -1,3 +1,1 @@
-#goalCoach
-
-This application features redux and a full authentication system through firebase.
+This application connects React-Redux with Google's Firebase.
